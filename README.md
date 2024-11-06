@@ -17,6 +17,6 @@ Tools Used ⚒️
 - Bootstrap for responsive layout
 
 
-![Screenshot 1](assets/screenshot1.png)
-![Screenshot 2](assets/screenshot2.png)
-![Screenshot 3](assets/screenshot3.png)
+![Alt Text](/Users/mahima/Desktop/guessing_game/guessing_game/src/assets/Screenshot 2024-11-06 at 9.22.23 PM.png)
+![Alt Text](/Users/mahima/Desktop/guessing_game/guessing_game/src/assets/Screenshot 2024-11-06 at 9.23.11 PM.png)
+![Alt Text](/Users/mahima/Desktop/guessing_game/guessing_game/src/assets/Screenshot 2024-11-06 at 9.24.11 PM.png)
